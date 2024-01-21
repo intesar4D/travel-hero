@@ -1,0 +1,354 @@
+.head{
+    margin: 100px;
+}
+.title{
+    display: block
+    justify-content: space-between;
+}
+.hero{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.travel{
+    color: #FF5400;
+}
+.fronthead{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.banner{
+    background-image: url('Images/Group\ 13\ \(1\)\ \(1\).png');
+    width: 1170px;
+height: 500px;
+}
+.select{
+    display: inline-flex;
+    width: 174px;
+height: 52px;  
+margin-right: 500px;
+margin-top: 50px;
+gap: 20px;
+
+
+}
+.first3{
+    display: flex;
+    color: chartreuse;
+    gap: 20px;
+}
+.where{
+    background-color: #fce3d7;
+}
+.when{
+    background-color: #fce3d7;
+}
+.type{
+    background-color: #fce3d7;
+}
+.find{
+   
+    background-color: rgb(241, 142, 106);
+}
+.explore{
+    text-align: center;
+}
+.headline{
+    color: #FFF;
+
+font-family: Mulish;
+font-size: 64px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.pera{
+    color: #FFF;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.main{
+    margin: 100px;
+}
+.main-div{
+    display: flex;
+}
+.tours{
+    color: #131318;
+
+text-align: center;
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.description{
+    color: rgba(19, 19, 24, 0.70);
+
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+.first{
+    width: 540px;
+    height: 550px 
+}
+.read-more{
+    width: 174px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+}
+.choose{
+    text-align: center;
+    
+}
+.group1{
+   text-align: center;
+}
+.group2{
+    text-align: center;
+ }
+ .group3{
+    text-align: center;
+ }
+ .images-group1{
+    width: 450px;
+height: 300px;
+
+ }
+ .images-group2{
+    width: 374px;
+height: 286px;
+
+ }
+ .images-group3{
+    width: 450px;
+height: 286px;
+
+ }
+.images-group4{
+    width: 274px;
+height: 286px;
+
+}
+.images-group5{
+    width: 450px;
+    height: 300px; 
+}
+.images-group6{
+    width: 520px;
+    height: 300px; 
+}
+.icon{
+    width: 64px;
+height: 64px;
+
+}
+.why{
+    text-align: center;
+    margin-left: 200px;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+   
+}
+.icon1{
+    border: 2px solid;
+    background-color: rgb(255, 198, 222);
+    border-radius: 4px;
+    width: 500px;
+}
+.icon2{
+    border: 2px solid;
+    background-color: rgb(164, 218, 200);
+    border-radius: 4px;
+    width: 500px;
+}
+
+.icon3{
+    border: 2px solid;
+    background-color: rgb(255, 198, 222);;
+    border-radius: 4px;
+    width: 500px;
+    
+}
+.all-icons{
+    text-align: center;
+    
+}
+.choose-section{
+    text-align: center;
+}
+.simple{
+    display: flex;
+}
+.lost{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: 60px;
+}
+.amet{
+    color: #5A5A5D;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.list{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px;
+}
+.bd{
+    width: 610px;
+height: 424px;
+}
+.btn{
+    width: 174px;
+    height: 52px; 
+    border-radius: 8px;
+background: #FF5400;
+}
+.newsletter{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+}
+.letter{
+    border: 1px solid #ed3535;
+    width: 440px;
+height: 540px;
+background-color: rgb(236, 250, 245);
+}
+.email-name{
+    margin-top: 50px;
+    display: grid;
+    gap: 15px;
+    width: 393px;
+height: 300px;
+
+}
+.news{
+    Newsletter
+color: #131318;
+
+font-family: Mulish;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.pera2{
+    color: #5A5A5D;
+
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px
+}
+.subs{
+    background-color: #f6793a;
+}
+.upto img{
+    width: 610px;
+height: 424px;
+}
+.foot{
+    text-align: center;
+    
+}
+.fut{
+ 
+   text-align: center;
+  
+    
+}
+footer{
+    background-color: rgba(19, 19, 24, 0.05);
+    text-align: center;
+    width: 1440px;
+height: 300px;
+margin: 100px;
+}
+.fb{
+    padding-right: 50px;
+}
+.git{
+    padding-left: 50px;
+}
+nav{
+    display: flex;
+}
+@media screen and (max-width: 600px) {
+  
+.banner{
+    width: 100%;
+    height: auto;
+}
+   .select{
+    display: grid;
+    grid-column: column;
+    gap: 10px;
+     
+   }
+   .main-div{
+    width: 100%;
+    display: grid;
+    grid-column: column;
+    
+   }
+   .your-destination{
+    max-width: 100%;
+    display: grid;
+    grid-column: column;
+    gap: 20px;
+   
+   }
+   .icons{
+    display: grid;
+    grid-template-columns: column;
+   }
+  .simple{
+    width: 100%;
+    display: grid;
+    grid-column: column;
+  }
+   .newsletter{
+    display: grid;
+    grid-column: column;
+    gap: 20px;
+    width: fit-content;
+   }
+footer{
+    width: 100%;
+    margin-bottom: 20px;
+   
+}
+}
